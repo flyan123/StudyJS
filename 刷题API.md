@@ -9,3 +9,7 @@
 
 ## 
 document.getElementsByTagName() 返回带有指定标签名的对象集合。
+
+##
+map,forEach,filter
+斐波那契数 ：f(n)=f(n-1)+f(n-2)
